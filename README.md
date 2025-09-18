@@ -1,6 +1,6 @@
 CareerMap — Learning Path Generator (MCP Powered)
 
-Live demo: careermap.streamlit.app
+Live demo: https://careermap.streamlit.app
 
 One-liner: Generate personalized learning paths from your goals using YouTube, Google Drive, and Notion — orchestrated via the Model Context Protocol (MCP).
 
