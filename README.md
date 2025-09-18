@@ -70,7 +70,7 @@ Or place them in a .env file:
 GOOGLE_AI_STUDIO_API_KEY=your_google_ai_studio_api_key
 PIPEDREAM_YT_URL=https://xxxxxx.m.pipedream.net
 PIPEDREAM_DRIVE_URL=https://xxxxxx.m.pipedream.net
-# PIPEDREAM_NOTION_URL=https://xxxxxx.m.pipedream.net
+PIPEDREAM_NOTION_URL=https://xxxxxx.m.pipedream.net
 
 ▶️ Running the App
 streamlit run app.py
