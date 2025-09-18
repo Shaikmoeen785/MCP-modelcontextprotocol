@@ -62,7 +62,7 @@ Set your API key + Pipedream URLs. Either export them directly:
 export GOOGLE_AI_STUDIO_API_KEY="your_google_ai_studio_api_key"
 export PIPEDREAM_YT_URL="https://xxxxxx.m.pipedream.net"     # YouTube workflow
 export PIPEDREAM_DRIVE_URL="https://xxxxxx.m.pipedream.net"  # (or) Drive workflow
-# export PIPEDREAM_NOTION_URL="https://xxxxxx.m.pipedream.net" # (alternative to Drive)
+export PIPEDREAM_NOTION_URL="https://xxxxxx.m.pipedream.net" # (alternative to Drive)
 
 
 Or place them in a .env file:
@@ -98,29 +98,6 @@ Type your goal (e.g., “Learn SQL in 7 days”).
 
 Click Generate Learning Path to receive a day-wise plan with videos, docs, and notes.
 
-🌍 Deployment
-
-You can deploy this app on:
-
-Streamlit Community Cloud
-
-Heroku
-
-Railway
-
-Docker (if you prefer containerization)
-
-🧭 Roadmap
-
-✅ YouTube + Drive + Notion integrations
-
-🔜 Add Coursera/Udemy connectors
-
-🔜 Multi-user profiles & history
-
-🔜 AI-based quiz & knowledge checks
-
-🤝 Contributing
 
 Contributions are welcome!
 
